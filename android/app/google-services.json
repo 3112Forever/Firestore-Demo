@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1082547813051",
+    "firebase_url": "https://flutter-1ffd1.firebaseio.com",
+    "project_id": "flutter-1ffd1",
+    "storage_bucket": "flutter-1ffd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082547813051:android:a650f0a4c6d5af2d",
+        "android_client_info": {
+          "package_name": "com.maruti.zfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082547813051-pjass1cgkbp9i5iqfhpq2qfhq0jceegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6phiCAZh2yOtLsgZogC293gvuxCf9OBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
